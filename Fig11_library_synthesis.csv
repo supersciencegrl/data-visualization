@@ -1,0 +1,8 @@
+﻿Entry,Product,Product SMILES,Method,Temperature / °C,Time / min,Yield / %
+1,4Aa-alpha,O=C1NC(C)=C(C(OCC)=O)C(C2=CC=CC=C2)N1,A,120,10,92
+2,4Aa-gamma,O=C1N(CC)C(C)=C(C(OCC)=O)C(C2=CC=CC=C2)N1,A,120,10,18
+3,4Aa-epsilon,O=C1N(CC2=CC=CC=C2)C(C)=C(C(OCC)=O)C(C3=CC=CC=C3)N1,A,120,10,43
+4,4Aa-phi,S=C1NC(C)=C(C(OCC)=O)C(C2=CC=CC=C2)N1,B,120,10,56
+5,4Aa-eta,S=C1N(C)C(C)=C(C(OCC)=O)C(C2=CC=CC=C2)N1,D,120,10,41
+6,4Ab-alpha,O=C1NC(C)=C(C(OCC)=O)C(C2=C([N+]([O-])=O)C=CC=C2)N1,A,120,10,54
+7,4Ae-phi,S=C1NC(C)=C(C(OCC)=O)C(C2=CC(O)=CC=C2)N1,C,120,20,45
