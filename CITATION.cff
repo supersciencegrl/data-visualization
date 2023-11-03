@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the original book chapter."
+authors:
+  - family-names: "Carson"
+    given-names: "Nessa"
+    orcid: "https://orcid.org/0000-0002-2769-1775"
+title: "Data Visualization for High-Throughput Experimentation"
+doi: 10.1021/bk-2022-1419.ch005
+date-released: 2017-12-18
+url: "https://doi.org/10.1021/bk-2022-1419.ch005"
+preferred-citation:
+  type: "book"
+  title: "The Power of High-Throughput Experimentation: General Topics and Enabling Technologies for Synthesis and Catalysis (Volume 1)"
+  doi: 10.1021/bk-2022-1419
+  copyright: 2022 American Chemical Society
+  languages:
+    - en
+  entry: Chapter 5
+  section: "Chapter 5: Data Visualization for High-Throughput Experimentation"
+  url: https://doi.org/10.1021/bk-2022-1419.ch005
+  editors:
+    - family-names: Emmert
+      given-names: Marion H
+    - family-names: Jouffroy
+      given-names: Matthieu
+    - family-names: Leitch
+      given-names: David C
+  authors:
+    - family-names: "Carson"
+      given-names: "Nessa"
+      orcid: "https://orcid.org/0000-0002-2769-1775"
