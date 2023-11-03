@@ -1,7 +1,11 @@
 # data-visualization
 Data Visualization for High-Throughput Experimentation
 
-.dxp visualization files require TIBCO Spotfire software to open. 
+Carson, N. Data Visualization for High-Throughput Experimentation. In ACS Symposium Series; Emmert, M. H., Jouffroy, M., Leitch, D. C., Eds.; American Chemical Society: Washington, DC, 2022; Vol. 1419, pp 59–86. https://doi.org/10.1021/bk-2022-1419.ch005.
+
+DOI: [10.1021/bk-2022-1419.ch005](https://doi.org/10.1021/bk-2022-1419.ch005 "10.1021/bk-2022-1419.ch005")
+
+.dxp visualization files require [TIBCO Spotfire](https://www.spotfire.com/) software to open. 
 
 ## Published_dataset.dxp
 - Fig 4: Effect of additive (dot plot)
